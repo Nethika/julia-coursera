@@ -1,5 +1,8 @@
 # JuliaCourseNotebooks
 
+(Notebooks are stil WIP)
+
+
 Jupyter notebooks and Juno .jl files for the Julia Scientific Programming course on Coursera
 
 The recently released version 1.0 of Julia marked a milestone in the development of the language.  Julia has been a rapidly evolving language.  This creates challenges when teaching Julia.  Over the next few weeks and month the course code will be adapted to comply with the changes introduced in Julia 1.0 (0.7).
